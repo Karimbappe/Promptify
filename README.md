@@ -65,5 +65,5 @@ We welcome contributions to Promptify! If you would like to contribute, please f
 ## Acknowledgements
 
 - [Next.js](https://nextjs.org/) for the excellent framework for building React applications.
-- [Tailwind CSS](https://tailwindcss.com/) for the powerful utility-first CSS framework.
+- [Tailwind CSS](https://tailwindcss.com/) for the powerful utility-first CSS framework.<br>
 Thanks a lot to Adrian ! 
