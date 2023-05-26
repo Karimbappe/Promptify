@@ -49,7 +49,6 @@ Link : https://promptify-53ywx6c9b-karimbappe.vercel.app/
 - Tailwind CSS: Utility-first CSS framework
 - MongoDB: NoSQL database for storing prompt and user data
 - Next-Auth: Authentication library for Next.js applications
-- Axios: HTTP client for making API requests
 
 ## Contributing
 
