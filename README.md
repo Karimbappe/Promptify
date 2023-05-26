@@ -1,7 +1,7 @@
 # Promptify
 
-Promptify is a web application that allows users to explore and share creative writing prompts. It provides a platform for writers to discover new ideas, improve their writing skills, and engage with a community of fellow writers.
-link : https://promptify-53ywx6c9b-karimbappe.vercel.app/
+Promptify is a web application that allows users to explore and share creative writing prompts. It provides a platform for writers to discover new ideas, improve their writing skills, and engage with a community of fellow writers.<br>
+Link : https://promptify-53ywx6c9b-karimbappe.vercel.app/
 
 <img width="1440" alt="Main_promptify" src="https://github.com/Karimbappe/Promptify/assets/78148549/78d0be3a-fe69-41b1-b5b1-dbf91c07e995">
 <br>
